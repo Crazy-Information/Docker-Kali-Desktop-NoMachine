@@ -1,4 +1,4 @@
-wget -O ng.sh https://raw.githubusercontent.com/kmille36/Docker-Kali-Desktop-NoMachine/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/Crazy-Information/Docker-Kali-Desktop-NoMachine/main/nomachine-xfce4.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
